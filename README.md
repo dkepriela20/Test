@@ -1,4 +1,4 @@
-# Project Title
+# Kodego Activity
 
 Simple overview of use/purpose.
 
